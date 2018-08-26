@@ -1,0 +1,6 @@
+\data
+\models
+\.ipy*
+\__py*
+test.txt
+DataPrep.ipynb
